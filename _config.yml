@@ -1,8 +1,9 @@
 
 title: My Resume
-url: 'http://junlulocky.com'
-baseurl: '/PanelCV' #change it according to your repository name
-
+# url: 'http://junlulocky.com'
+# baseurl: '/PanelCV' #change it according to your repository name
+url:''
+baseurl:''
 
 
 # Profile information
